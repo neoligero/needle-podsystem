@@ -1,0 +1,97 @@
+{
+  "name": "needle-podsystem",
+  "version": "0.0.6",
+  "description": "Tiny yet feature-packed HTTP client. With multipart, charset decoding and proxy support. With frozen dependencies. Personal use only.",
+  "keywords": [
+    "http",
+    "https",
+    "simple",
+    "request",
+    "client",
+    "multipart",
+    "upload",
+    "proxy",
+    "deflate",
+    "timeout",
+    "charset",
+    "iconv",
+    "frozen"
+  ],
+  "tags": [
+    "http",
+    "https",
+    "simple",
+    "request",
+    "client",
+    "multipart",
+    "upload",
+    "proxy",
+    "deflate",
+    "timeout",
+    "charset",
+    "iconv"
+  ],
+  "author": {
+    "name": "neoligero",
+    "email": "neoligero@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoligero/needle-podsystem.git"
+  },
+  "dependencies": {
+    "qs": "5.2.0",
+    "iconv-lite": ""
+  },
+  "devDependencies": {
+    "mocha": "",
+    "sinon": "",
+    "should": "",
+    "xml2js": "",
+    "JSONStream": "",
+    "q": "",
+    "jschardet": ""
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/needle",
+  "bin": {
+    "needle": "./bin/needle"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "bugs": {
+    "url": "https://github.com/tomas/needle/issues"
+  },
+  "homepage": "https://github.com/neoligero/needle-podsystem",
+  "_id": "needle-podsystem@0.0.6",
+  "dist": {
+    "shasum": "",
+    "tarball": ""
+  },
+  "license": "MIT",
+  "_from": "needle-podsystem@0.0.6",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "neoligero",
+    "email": "neoligero@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "tomas",
+      "email": "tomas@forkhq.com"
+    },
+    {
+      "name": "neoligero",
+      "email": "neoligero@gmail.com"
+    }
+  ],
+  "_shasum": "",
+  "_resolved": "",
+  "readme": "README.md"
+}
